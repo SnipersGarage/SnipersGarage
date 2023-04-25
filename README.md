@@ -18,8 +18,6 @@ Converts on models prices verify on poly/verts.
 
 1 of 1 builds
 
-On at times website excluses
-
 Things NOT Offered
 Resell rights of your model
 Resell of dev models
