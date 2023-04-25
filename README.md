@@ -1,16 +1,31 @@
-### Hi there 👋
+Snipers Garage 
 
-<!--
-**SnipersGarage/SnipersGarage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Here we offer:
 
-Here are some ideas to get you started:
+Custom Liveries.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Custom Vehicles.
+
+ Commissions.
+
+Discord/Website exclusives.
+
+One of one builds at customers expense on parts needed.
+
+Animated Things such as opening tonneau covers.
+
+Converts on models prices verify on poly/verts.
+
+1 of 1 builds
+
+On at times website excluses
+
+Things NOT Offered
+Resell rights of your model
+Resell of dev models
+
+Tebex Store:
+https://sniper-garage.tebex.io/
+
+Discord:
+https://discord.gg/nJnT8PjNu6
